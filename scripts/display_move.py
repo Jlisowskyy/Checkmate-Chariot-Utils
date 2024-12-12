@@ -1,3 +1,5 @@
+#!/bin/python3
+
 """
 Author: Jakub Lisowski, 2024
 MIT License
